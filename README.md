@@ -23,11 +23,9 @@
 
 ```bash
 $ whoami
-> Mohamed Ali Ezer Bouzouraa
+> MohamedEzer Bouzouraa
 > Software Engineering Student @ INSAT
 > Location: Tunisia 🇹🇳
-> Interests: Full-Stack Dev | AI | Machine Learning | Computer Vision
-> Fuel: Mathematics ∫ + Physics ⚛️ + Coffee ☕
 ```
 
 ---
