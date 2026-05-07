@@ -1,13 +1,6 @@
 # Hi, I'm Mohamed Ezer Bouzouraa 👋
 
-Software Engineering Student at **INSAT, Tunisia** — passionate about Full-Stack Development, AI, Machine Learning, and Computer Vision. Driven by a deep love for Mathematics and Physics.
-
----
-
-## 🛠️ Tech Stack
-
-Python • C • C++ • JavaScript • HTML • CSS • PHP • Node.js • Symfony • MySQL • Enterprise Architect
-
+I am a motivated, self-taught Software and AI Engineer with strong expertise in artificial intelligence and machine learning. I have experience designing, training, and deploying intelligent models using frameworks such as TensorFlow, PyTorch and scikit-learn. I am passionate about developing scalable, data-driven solutions that combine solid software engineering principles with cutting-edge AI innovation.
 ---
 
 ## 📬 Contact
@@ -17,15 +10,7 @@ Python • C • C++ • JavaScript • HTML • CSS • PHP • Node.js • Sym
 - 🐙 [GitHub](https://github.com/mohamedezerbouzouraa)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mohamedezerbouzouraa&style=flat-square&color=blue&label=Profile+Views)
-
-<div align="center">
-
-```
-[ SYSTEM ONLINE ] — Always building. Always learning. Never stopping.
-```
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohamedezerbouzouraa&style=flat-square&color=00ff41&label=VISITORS)
+
 
 </div>
