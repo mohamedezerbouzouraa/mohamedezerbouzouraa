@@ -4,9 +4,6 @@ I am a motivated, self-taught Software and AI Engineer with strong expertise in 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohamedezerbouzouraa&style=flat-square&color=blue&label=Profile+Views)
 
-## 📬 Contact
-
-- 📧 [mohamedezer.bouzouraa@insat.ucar.tn](mailto:mohamedezer.bouzouraa@insat.ucar.tn)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ezer-bouzouraa-663489379/)
-- 🐙 [GitHub](https://github.com/mohamedezerbouzouraa)
-
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedezerbouzouraa)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ezer-bouzouraa-663489379/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedezer.bouzouraa@insat.ucar.tn)
